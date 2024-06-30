@@ -4,6 +4,9 @@ Author : Ankit Mishra
 
 Botcoin is a React-based web application that displays points and energy levels with a dynamic, interactive UI. Users can click on the main coin image to earn points, and the application visually displays the energy consumption and point increments with animations.
 
+## Available to use at : 
+https://botcoin-boxx.onrender.com or https://t.me/MineBotcoin_Bot/mine
+
 ![Screenshot (8)(1)](https://github.com/PRINCEMISHRAJI/Botcoin/assets/50262987/da881cae-8e99-4e4c-a293-0e504859760c)
 
 ## Features
